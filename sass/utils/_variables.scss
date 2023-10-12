@@ -1,0 +1,23 @@
+
+
+$background-color : #AE1332;
+
+$font-color: #FFFFFF;
+
+$detail-color: #000000;
+
+$button-color: #A4CB66;
+    
+$logo-font: Raleway;
+$logo-color: #2196f3;
+$banner-background-color: #2f303a;
+$footer-text-color: #ffffff;
+$background-second-color: #F5F4FA;
+$border-header: #ececec;
+$font-weight-titles: 700;
+$cubic: cubic-bezier(0.4, 0, 0.2, 1);
+
+@mixin flex-positionning {display: flex;
+     justify-content: space-between;
+   
+   }
